@@ -1,15 +1,48 @@
-# v0 sandbox internal files
+# Archivos que considero imporantes no subir a github
+# 1.- .env este archivo lo considero mas importante porque contienen la clave de api de Bella Nonna
+.env
+# 2.- node_modules/ este directorio no se debe subir porque contiene todas las dependencias pesadas descargadas para Bella Nonna que se pueden reinstalar con un comando
+node_modules/
+
+# 3.- dist/ este directorio contiene los archivos compilados y listos para producción que se generan automáticamente al compilar Bella Nonna
+dist/
+
+# 4.- secrets.json este archivo almacena credenciales secundarias y accesos privados de servicios externos usados en Bella Nonna
+secrets.json
+
+# 5.- *.log estos archivos registran los errores y eventos de ejecución de Bella Nonna y pueden crecer mucho o contener datos sensibles por error
+*.log
+
+# 6.- venv/ este directorio contiene el entorno virtual con las librerías necesarias para que funcione el código del servidor de Bella Nonna
+venv/
+
+# 7.- .DS_Store este archivo oculto del sistema operativo macOS se genera automáticamente al explorar las carpetas del proyecto de Bella Nonna
+.DS_Store
+
+# 8.- id_rsa este archivo contiene tus llaves criptográficas privadas que otorgan acceso total a servidores o cuentas conectadas al proyecto
+id_rsa
+
+Archivo gitIgnore
+# Dependencias
+node_modules/
+
+# Next.js
+.next/
+
+# Variables de entorno
+.env
+.env.local
+.env*.local
+
+# Vercel
+.vercel/
+
+# Archivos internos de v0
 __v0_runtime_loader.js
 __v0_devtools.tsx
 __v0_jsx-dev-runtime.ts
 .snowflake/
 .v0-trash/
-.vercel/
 
-# Environment variables
-.env*.local
-
-# Common ignores
-node_modules
-.next/
+# Sistema operativo
 .DS_Store

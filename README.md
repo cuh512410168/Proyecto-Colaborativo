@@ -1,33 +1,34 @@
-# pizzitas
+#pizzitas
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+ESta pagina esta dedicada a la venta y producción de pizzas las cuales llevan años elaborandose generación tras generación
 
-## Built with v0
+integrantes:
+Kevin Aldo Cruz Flores
+Leonardo Hernandez Zuñiga
+Aldo Franco Chavez
+Cesar Genaro Castillo Manrique
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+fecha de creación del sitio:
+21 / septiembre / 2026
+ 
+Roles de Integrantes: 
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_fJj1QAVhquHoON7fSQzxUzYYVMPd)
+Kevin Aldo Cruz Flores          Jefe del Proyecto
+Leonardo Hernandez Zuñiga       Jefe del Proyecto
+Aldo Franco Chavez              Encargado del Backend
+Cesar Genaro Castillo Manrique  Enacragdo del Frontend
 
-## Getting Started
+Precio del Producto
+-- $ 30,000
 
-First, run the development server:
+Nombre del Proyecto:
+Bella Nonna
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Eslogan:
+El sabor de la vieja Italia, recién salido del horno
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Dirección:
+Tienda de pizzas sin pagina web
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+Proposito:
+ESte sitio es creado para personas que no tienen la posibilidad de ir a Italia a probar las deliciosas pizzas 
